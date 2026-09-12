@@ -1,11 +1,11 @@
 ## Interface: 110207, 120000, 120001, 120100
 ## X-Interface: 110207, 120000, 120001, 120100
 ## Title: SpeakStone Narration - Chatter
-## Notes: NPC gossip, and item/book/tome text, for SpeakStone Narration. Not tied to one expansion -- install alongside any expansion pack. Requires QuestReaderAddon.
+## Notes: NPC gossip, and item/book/tome text, for SpeakStone Narration. Not tied to one expansion -- install alongside any expansion pack. Requires SpeakStone_Main.
 ## Author: clhammer weirdautomation@gmail.com, Paratus
 ## Version: 1.3
 
-## RequiredDeps: QuestReaderAddon
+## RequiredDeps: SpeakStone_Main
 
 SoundLengths.lua
 Register.lua

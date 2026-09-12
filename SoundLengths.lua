@@ -1,4 +1,4 @@
-QuestReaderSoundLengths_Pack_Chatter = {
+SpeakStoneSoundLengths_Pack_Chatter = {
     ["item_aftermath_of_the_second_war_page1.ogg"] = 31.26,
     ["item_aftermath_of_the_second_war_page2.ogg"] = 32.45,
     ["item_aftermath_of_the_second_war_page3.ogg"] = 28.00,
