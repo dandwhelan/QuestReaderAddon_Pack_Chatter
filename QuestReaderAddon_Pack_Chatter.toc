@@ -1,7 +1,7 @@
 ## Interface: 110207, 120000, 120001, 120100
 ## X-Interface: 110207, 120000, 120001, 120100
-## Title: SpeakStone Narration - Shared
-## Notes: Shared quest audio for SpeakStone Narration. Requires QuestReaderAddon.
+## Title: SpeakStone Narration - Chatter
+## Notes: NPC gossip, and item/book/tome text, for SpeakStone Narration. Not tied to one expansion -- install alongside any expansion pack. Requires QuestReaderAddon.
 ## Author: clhammer weirdautomation@gmail.com, Paratus
 ## Version: 1.3
 
