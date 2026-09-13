@@ -1,5 +1,6 @@
 ## Interface: 110207, 120000, 120001, 120100
 ## X-Interface: 110207, 120000, 120001, 120100
+## X-Wago-ID: Q6aReAKW
 ## Title: SpeakStone Narration - Chatter
 ## Notes: NPC gossip, and item/book/tome text, for SpeakStone Narration. Not tied to one expansion -- install alongside any expansion pack. Requires SpeakStone_Main.
 ## Author: clhammer weirdautomation@gmail.com, Paratus
